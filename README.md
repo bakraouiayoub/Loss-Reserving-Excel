@@ -1,2 +1,2 @@
-# GMMB/GMDB
+# GMMB-GMDB
 Master's Thesis
