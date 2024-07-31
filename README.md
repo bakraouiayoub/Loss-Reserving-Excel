@@ -1,3 +1,2 @@
 # Loss Reserving
-This work is mainly based on the data presented in the book “Estimating Unpaid Claims Using Basic Techniques”.
-It includes three techniques used in reserving practice, namely the Chain ladder, Expected Claims and Bornhuetter-Ferguson methods.
+The three excel files (Development CL, Expected Claims, BF) covering property insurance are mainly based on the data presented in the book “Estimating Unpaid Claims Using Basic Techniques”. The work includes three techniques used in reserving practice, namely the Chain ladder, Expected Claims and Bornhuetter-Ferguson methods.
